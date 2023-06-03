@@ -7,6 +7,9 @@ import "./App.css";
 
 
 const App = () => {
+
+
+  document.body.style.width= "100vw"
   return (
     <main>
       <div className='main'>
